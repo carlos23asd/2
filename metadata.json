@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Local M3U8 Player",
+  "description": "A web application that functions as a local M3U8 player with a built-in channel list. It uses hls.js to stream HLS content directly in the browser without external servers.",
+  "requestFramePermissions": []
+}
